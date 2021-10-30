@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const fn = (arr) => {
-    console.log(arr);
+const fn = (str) => {
+    console.log(str);
 };
 exports.default = fn;
