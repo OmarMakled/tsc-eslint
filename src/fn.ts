@@ -1,5 +1,5 @@
-const fn = (arr: Array<any>): void => {
-  console.log(arr);
+const fn = (str: Array<string>): void => {
+  console.log(str);
 };
 
 export default fn;

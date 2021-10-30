@@ -9,7 +9,7 @@ const any = (data) => {
 };
 any({ name: 'foo', title: 'bar', country: 'any' });
 let foo;
-foo = 'ss';
+foo = 'ssss';
 console.log(foo);
 function sample() {
     return 'ss';
